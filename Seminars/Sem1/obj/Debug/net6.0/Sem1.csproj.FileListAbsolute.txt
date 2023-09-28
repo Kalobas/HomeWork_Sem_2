@@ -1,0 +1,15 @@
+D:\Home_Works\Seminars\Sem1\bin\Debug\net6.0\Sem1.exe
+D:\Home_Works\Seminars\Sem1\bin\Debug\net6.0\Sem1.deps.json
+D:\Home_Works\Seminars\Sem1\bin\Debug\net6.0\Sem1.runtimeconfig.json
+D:\Home_Works\Seminars\Sem1\bin\Debug\net6.0\Sem1.dll
+D:\Home_Works\Seminars\Sem1\bin\Debug\net6.0\Sem1.pdb
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.csproj.AssemblyReference.cache
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfoInputs.cache
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfo.cs
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.csproj.CoreCompileInputs.cache
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.dll
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\refint\Sem1.dll
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.pdb
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\Sem1.genruntimeconfig.cache
+D:\Home_Works\Seminars\Sem1\obj\Debug\net6.0\ref\Sem1.dll
